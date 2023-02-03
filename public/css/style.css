@@ -673,7 +673,7 @@ h3 {
     background-color: #101010;
     color: #ffffff;
     transition-duration: 0.4s;
-    margin: 0 3rem 0 3rem;
+    margin: 3rem 3rem 0 3rem;
     padding: 0.5rem 2rem 0.5rem 2rem;
 }
 
@@ -784,7 +784,7 @@ footer {
     .logo {
         display: flex;
         position: absolute;
-        top: 10%;
+        top: 15%;
         left: 4%;
         text-align: center;
         width: 60vw;

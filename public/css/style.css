@@ -936,7 +936,7 @@ footer {
     .logo {
         display: flex;
         position: absolute;
-        top: 50%;
+        top: 40%;
         left: 4%;
         text-align: center;
         width: 60vw;
@@ -949,6 +949,7 @@ footer {
 
     .section-new-additions h2 {
         flex-direction: row;
+        text-align: center;
     }
 
     .new-addition {

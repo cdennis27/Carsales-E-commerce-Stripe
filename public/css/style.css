@@ -729,7 +729,7 @@ footer {
 
     /*main homepage portion*/
     .logo {
-        top: 50%;
+        top: 75%;
     }
 
     /*newest addition section*/
@@ -740,6 +740,10 @@ footer {
 
     .hero-image {
         width: 100%;
+    }
+
+    .section-homepage {
+        height: 400px;
     }
 
     /*car-list-page-starts*/
@@ -916,6 +920,12 @@ footer {
         position: block;
         height: 400px;
         width: 100vw;
+    }
+
+    .intro-picture img {
+        height: auto;
+        width: 100%;
+        
     }
 
     .left {

@@ -728,8 +728,18 @@ footer {
 @media only screen and (max-width: 768px) {
 
     /*top header bar without button login*/
+
+    .header-bar {
+        display: flex;
+        flex-direction: row;
+        width: 100vw;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    
     .small-logo {
-        height: 4rem;
+        height: 3rem;
         display: inline-block;
         margin: 0.5rem 2rem 0 2rem;
     }
@@ -767,6 +777,10 @@ footer {
         font-size: 0.75rem;
     }
 
+    .logged-in {
+        font-size: 0.75rem;
+    }
+
     /*main homepage portion*/
     .section-homepage {
         display: flex;
@@ -784,7 +798,7 @@ footer {
     .logo {
         display: flex;
         position: absolute;
-        top: 15%;
+        top: 20%;
         left: 4%;
         text-align: center;
         width: 60vw;
@@ -810,6 +824,7 @@ footer {
 
     .section-new-additions h2 {
         flex-direction: row;
+        font-size: 1rem;
     }
 
     .container-new-additions {
@@ -928,7 +943,7 @@ footer {
         flex-direction: row;
     }
 
-    .comment-user h4{
+    .comment-user h4 {
         padding: 0.17rem 0 0 0.5rem;
     }
 
@@ -951,5 +966,5 @@ footer {
     }
 
     /*success*/
-    
+
 }

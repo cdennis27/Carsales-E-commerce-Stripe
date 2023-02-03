@@ -184,7 +184,7 @@ body {
 .logo {
     display: flex;
     position: absolute;
-    top: 35%;
+    top: 400px;
     left: 4%;
     text-align: center;
 }
@@ -733,7 +733,8 @@ footer {
 
     /*main homepage portion*/
     .logo {
-        top: 75%;
+        top: 340px;
+        width: 90vw;
     }
 
     /*newest addition section*/
@@ -948,7 +949,7 @@ footer {
     .logo {
         display: flex;
         position: absolute;
-        top: 40%;
+        top: 250px;
         left: 4%;
         text-align: center;
         width: 60vw;
@@ -1130,3 +1131,11 @@ footer {
     /*success*/
 
 }
+
+@media only screen and (max-width: 300px) {
+
+    /*main homepage portion*/
+    .logo {
+        top: 280px;
+        width: 90vw;
+    }

@@ -747,6 +747,7 @@ footer {
     .login-button {
         height: 1.5rem;
         font-weight: 400;
+        font-size: 0.75rem;
         margin: 0.5rem 2rem 0 2rem;
     }
 
@@ -757,7 +758,7 @@ footer {
     }
 
     .search-bar {
-        width: 40vw;
+        width: 30vw;
         height: 1rem;
         transition-duration: 0.1s;
         cursor: text;
@@ -778,7 +779,7 @@ footer {
     }
 
     .logged-in {
-        font-size: 0.75rem;
+        font-size: 0.5rem;
     }
 
     /*main homepage portion*/

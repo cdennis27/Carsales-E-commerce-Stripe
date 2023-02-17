@@ -6,8 +6,8 @@ Classic Whipz is a car e-commerce site that allows you to buy and sell classic c
 
 ## Installation
 To access this project, you can click on the GitHub URL and clone the repository locally. Another way to access this project is by clicking on the deployed Heroku Link.
-GitHub Link: https://github.com/hovigmk/Classic_Whipz
-Heroku Link: https://classiccarswebsite.herokuapp.com/
+GitHub Link: https://github.com/cdennis27/Carsales-E-commerce-Stripe
+Heroku Link: https://dashboard.heroku.com/apps/classiccarwhipz
 
 
 ## Usage
@@ -31,9 +31,9 @@ Stripe https://stripe.com/docs/js
 
 
 ## Contributors
-Hovig https://github.com/hovigmk
-
 Cezar https://github.com/cdennis27
+
+Hovig https://github.com/hovigmk
 
 Esther https://github.com/yerimechoi
 
